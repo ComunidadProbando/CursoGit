@@ -1,3 +1,3 @@
 Mi primer proyecto con GIT_
 
-Aprendiendo desde cero 
+Aprendiendo desde cero  -- ya se hizo el primer commit

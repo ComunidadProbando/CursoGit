@@ -1,5 +1,8 @@
-Mi primer proyecto con GIT_
+# Mi primer proyecto con Git
 
-Aprendiendo desde cero  -- ya se hizo el primer commit
+> Se está realizando el curso de https://www.youtube.com/playlist?list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId
 
---segunda rama 0.o
+
+> Aprender un poco sobre git, commits, branches, forks, communities, clone, remote, merge fetch, upstream...
+
+
